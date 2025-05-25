@@ -1,0 +1,10 @@
+#header {
+    @apply border-b-2;
+    border-color: #e7e7e7;
+    ul {
+        @apply list-none underline;
+        li {
+            @apply inline mx-1;
+        }
+    }
+}

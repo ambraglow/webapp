@@ -1,0 +1,9 @@
+#about {
+    @apply m-2;
+
+    img {
+        @apply w-12 h-12 !important;
+        min-width: 0 !important;
+    }
+
+}
