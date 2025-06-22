@@ -1,10 +1,18 @@
 #header {
-    @apply border-b-2;
-    border-color: #e7e7e7;
+    @apply border-b-2 mb-4;
+    border-color: gray;
+    text-align: center;
     ul {
         @apply list-none underline;
         li {
             @apply inline mx-1;
         }
+    }
+    h2 {
+        font-weight: 200;
+        color: wheat;
+    }
+    h1 {
+        color: orange;
     }
 }
